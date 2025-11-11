@@ -3,75 +3,79 @@
   "WorkspaceRootPath": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Rigidbody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Rigidbody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\TimeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\TimeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\AABB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\AABB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\ImageRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\ImageRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\ImageObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\RenderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\RenderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52384173-F918-4DF6-8DE5-DDB3EE5078C5}|SDL3_Base.vcxproj|solutionrelative:source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Downloads\\SDL3_Base_v2\\SDL3_Base\\RenderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Rigidbody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Rigidbody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\AABB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\AABB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\ImageRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\ImageRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\ImageObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\RenderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\RenderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,61 +90,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Rigidbody.h",
-              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Rigidbody.h",
-              "RelativeDocumentMoniker": "source\\Rigidbody.h",
-              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Rigidbody.h",
-              "RelativeToolTip": "source\\Rigidbody.h",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA8AAAAcAAAAAAAAAA==",
+              "Title": "TimeManager.h",
+              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\TimeManager.h",
+              "RelativeDocumentMoniker": "source\\TimeManager.h",
+              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\TimeManager.h",
+              "RelativeToolTip": "source\\TimeManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-05T16:03:50.366Z",
+              "WhenOpened": "2025-11-11T15:29:40.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AABB.cpp",
-              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.cpp",
-              "RelativeDocumentMoniker": "source\\AABB.cpp",
-              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.cpp",
-              "RelativeToolTip": "source\\AABB.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-05T15:46:03.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AABB.h",
-              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.h",
-              "RelativeDocumentMoniker": "source\\AABB.h",
-              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.h",
-              "RelativeToolTip": "source\\AABB.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-05T15:41:39.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImageRenderer.cpp",
-              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.cpp",
-              "RelativeDocumentMoniker": "source\\ImageRenderer.cpp",
-              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.cpp",
-              "RelativeToolTip": "source\\ImageRenderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-03T15:32:48.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ImageRenderer.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.h",
               "RelativeDocumentMoniker": "source\\ImageRenderer.h",
@@ -148,8 +110,7 @@
               "RelativeToolTip": "source\\ImageRenderer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-03T15:42:48.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T15:42:48.735Z"
             },
             {
               "$type": "Document",
@@ -165,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Transform.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Transform.h",
               "RelativeDocumentMoniker": "source\\Transform.h",
@@ -177,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "InputManager.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\InputManager.h",
               "RelativeDocumentMoniker": "source\\InputManager.h",
@@ -189,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Object.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Object.h",
               "RelativeDocumentMoniker": "source\\Object.h",
@@ -201,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Game.cpp",
               "RelativeDocumentMoniker": "source\\Game.cpp",
@@ -213,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Game.h",
               "RelativeDocumentMoniker": "source\\Game.h",
@@ -225,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "InputManager.cpp",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\InputManager.cpp",
               "RelativeDocumentMoniker": "source\\InputManager.cpp",
@@ -237,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ImageObject.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageObject.h",
               "RelativeDocumentMoniker": "source\\ImageObject.h",
@@ -249,19 +210,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Vector2.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Vector2.h",
               "RelativeDocumentMoniker": "source\\Vector2.h",
               "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Vector2.h",
               "RelativeToolTip": "source\\Vector2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-03T15:45:15.663Z"
+              "WhenOpened": "2025-11-03T15:45:15.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
+              "Title": "ImageRenderer.cpp",
+              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.cpp",
+              "RelativeDocumentMoniker": "source\\ImageRenderer.cpp",
+              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\ImageRenderer.cpp",
+              "RelativeToolTip": "source\\ImageRenderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T15:32:48.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AABB.h",
+              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.h",
+              "RelativeDocumentMoniker": "source\\AABB.h",
+              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.h",
+              "RelativeToolTip": "source\\AABB.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T15:41:39.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AABB.cpp",
+              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.cpp",
+              "RelativeDocumentMoniker": "source\\AABB.cpp",
+              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\AABB.cpp",
+              "RelativeToolTip": "source\\AABB.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T15:46:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rigidbody.h",
+              "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Rigidbody.h",
+              "RelativeDocumentMoniker": "source\\Rigidbody.h",
+              "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\Rigidbody.h",
+              "RelativeToolTip": "source\\Rigidbody.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-05T16:03:50.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "RenderManager.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\RenderManager.h",
               "RelativeDocumentMoniker": "source\\RenderManager.h",
@@ -273,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "RenderManager.cpp",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\RenderManager.cpp",
               "RelativeDocumentMoniker": "source\\RenderManager.cpp",
@@ -285,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "RenderManager.h",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Downloads\\SDL3_Base_v2\\SDL3_Base\\RenderManager.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\SDL3_Base_v2\\SDL3_Base\\RenderManager.h",
@@ -297,8 +307,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Main.cpp",
+              "DocumentIndex": 18,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\main.cpp",
               "RelativeDocumentMoniker": "source\\main.cpp",
               "ToolTip": "C:\\Users\\AdrianPovillPena\\Documents\\GitHub\\SDL_Tutorial\\SDL3_Base\\source\\main.cpp",
@@ -306,6 +316,34 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-30T16:02:33.088Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             }
           ]
         }

@@ -1,4 +1,5 @@
 #include "Game.h"
+#include "TimeManager.h"
 
 #include <SDL3/SDL.h>
 #include <exception>
@@ -21,9 +22,13 @@ int main()
 
 	while (game.IsRunning())
 	{
-		game.HandleEvents();
-		game.Update();
-		game.Render();
+		TIME.Update();
+		if (TIME.ShouldUpdateGame()) {
+			game.HandleEvents();
+			game.Update();
+			game.Render();
+			TIME.ResetDeltaTime();
+		}
 	}
 
 	game.Release();
